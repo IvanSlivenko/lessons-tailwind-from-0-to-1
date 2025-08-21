@@ -1,0 +1,16 @@
+https://youtu.be/89qrhaJWjds
+
+
+npm install -D tailwindcss@3
+npx tailwindcss init
+
+create input.css -> @tailwind base;
+                    @tailwind components;
+                    @tailwind utilities;
+
+npx tailwindcss -i css/input.css -o css/output.css --watch
+
+
+
+----------------------------------------
+00 : 20 : 00
